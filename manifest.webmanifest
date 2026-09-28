@@ -1,0 +1,23 @@
+{
+ "name": "Focus Flow Start",
+ "short_name": "Start",
+ "description": "an ADHD task initiation app: type the thing you keep avoiding, tap Break It Down, and get a ladder of five-minute steps with a start timer, a body doubling mode so you are not starting alone, a done list and a daily top 3. Your data never leaves your device.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#FAF7F2",
+ "theme_color": "#FAF7F2",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
